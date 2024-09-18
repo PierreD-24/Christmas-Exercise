@@ -1,0 +1,14 @@
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.AssemblyInfoInputs.cache
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.AssemblyInfo.cs
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.csproj.CoreCompileInputs.cache
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\bin\Debug\net6.0\ChristmasWithTypes.exe
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\bin\Debug\net6.0\ChristmasWithTypes.deps.json
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\bin\Debug\net6.0\ChristmasWithTypes.runtimeconfig.json
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\bin\Debug\net6.0\ChristmasWithTypes.dll
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\bin\Debug\net6.0\ChristmasWithTypes.pdb
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.dll
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\refint\ChristmasWithTypes.dll
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.pdb
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.genruntimeconfig.cache
+C:\Users\pdahr\Desktop\repos\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ref\ChristmasWithTypes.dll
